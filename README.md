@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- I'm student programmer 💅
+- And still not software engineer 🫠 (I'm trying)
+- I'm into .NET Technologies and GameDev
+- If I can touch and change something it means I like it 
 <!--
 **Dodogen/Dodogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
